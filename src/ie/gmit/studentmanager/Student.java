@@ -26,7 +26,7 @@ public class Student {
 	}
 	
 	//name setter & getter
-	public String getName() {
+	public String getFirstName() {
 		return name;
 	}
 	
